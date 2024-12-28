@@ -10,5 +10,3 @@
 ✨ I’m actively seeking **internships** in **Data Analytics** to grow my skills and contribute meaningfully to teams. Let’s connect!  
 
 --- 
-
-Feel free to personalize it further! Would you like help drafting a LinkedIn or email template for outreach?
