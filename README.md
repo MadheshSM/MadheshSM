@@ -5,37 +5,19 @@
 
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=FF006E&center=true&vCenter=true&multiline=false&width=750&height=40&lines=⚡+Transforming+data+into+intelligence.;🚀+Engineering+AI+systems+that+scale.;🧠+Deep+Learning+%7C+LLMs+%7C+Production+ML.;🔥+Explainable.+Efficient.+Impact-driven.;💜+Building+the+future%2C+one+model+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=FF006E&center=true&vCenter=true&multiline=false&width=750&height=40&lines=%E2%9A%A1+Transforming+data+into+intelligence.;%F0%9F%9A%80+Engineering+AI+systems+that+scale.;%F0%9F%A7%A0+Deep+Learning+%7C+LLMs+%7C+Production+ML.;%F0%9F%94%A5+Explainable.+Efficient.+Impact-driven.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ANIMATED SNAKE OR COLORFUL SEPARATOR -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.svg" width="100%"/>
-</div>
-
-<!-- STATS ROW -->
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MadheshSM&show_icons=true&theme=radical&hide_border=true&title_color=ff006e&icon_color=ffbe0b&text_color=ffffff&bg_color=0d0d0d&count_private=true&hide=issues&rank_icon=percentile"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadheshSM&layout=compact&theme=radical&hide_border=true&title_color=ff006e&text_color=ffffff&bg_color=0d0d0d&langs_count=6"/>
-
-</div>
-
-<br/>
-
-<!-- COLORFUL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-<!-- WHO I AM -->
+<!-- SYSTEM IDENTITY -->
 <div align="center">
 
 ## 🧬 System Identity
@@ -67,7 +49,6 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/>
 
-<!-- COLORFUL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -116,7 +97,6 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/>
 
-<!-- COLORFUL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -139,7 +119,6 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/>
 
-<!-- COLORFUL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -169,7 +148,6 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/>
 
-<!-- COLORFUL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -192,25 +170,6 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/>
 
-<!-- COLORFUL DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-## 📈 Contribution Activity
-
-<br/>
-
-[![Madhesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MadheshSM&bg_color=0d0d0d&color=ff006e&line=8338ec&point=ffbe0b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- COLORFUL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -234,7 +193,7 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1000&color=FFBE0B&center=true&vCenter=true&width=600&height=35&lines=⚡+Intelligence+is+not+the+goal.+Impact+is.;🔥+Transforming+data+into+intelligence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1000&color=FFBE0B&center=true&vCenter=true&width=600&height=35&lines=%E2%9A%A1+Intelligence+is+not+the+goal.+Impact+is.;%F0%9F%94%A5+Transforming+data+into+intelligence.)](https://git.io/typing-svg)
 
 </div>
 
