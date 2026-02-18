@@ -159,7 +159,7 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/>
 
-| 🎨 Project | 📌 Description | 🛠️ Stack |
+| Project | Description | Stack |
 |:---|:---|:---|
 | [**pneumonia-detection-cnn**](https://github.com/MadheshSM/pneumonia-detection-cnn) | CNN-based chest X-ray classifier · clinical-grade pipeline | Python · TensorFlow · Keras |
 | [**call-ai**](https://github.com/MadheshSM/call-ai) | Real-time conversational AI · voice + LLM orchestration | Python · HTML · LLMs |
