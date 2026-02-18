@@ -1,255 +1,252 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HERO BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- HERO BANNER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MADHESH%20S%20M&fontSize=52&fontColor=00f5a0&fontAlignY=38&desc=AI%20Developer%20·%20Deep%20Learning%20Engineer%20·%20MSc%20Data%20Science&descSize=14&descAlignY=60&descColor=aaaacc&animation=fadeIn" width="100%"/>
-
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=00F5A0&center=true&vCenter=true&width=600&height=40&lines=Transforming+data+into+intelligence.;Building+AI+systems+that+scale.;Deep+Learning+%7C+Medical+AI+%7C+Production+ML;Explainable.+Efficient.+Impact-driven." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- MINIMAL DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=MADHESH%20S%20M&fontSize=72&fontColor=fff&fontAlignY=40&desc=AI%20Developer%20%E2%80%94%20Deep%20Learning%20%E2%80%94%20MSc%20Data%20Science&descSize=15&descColor=a0f0c8&descAlignY=62&animation=twinkling"/>
 
 </div>
 
-<br/>
-
-<!-- ABOUT -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
-
-### `01` · About
-
-```
-Name      →  Madhesh S M
-Role      →  AI Developer
-Education →  MSc Data Science (Final Year)
-Domain    →  Deep Learning · Medical AI
-Mode      →  Production-first. Research-driven.
-Location  →  India
-Status    →  Open to research & engineering roles
-```
-
-I engineer AI systems that move from notebook to production without losing precision.
-
-My work lives at the intersection of **deep learning architectures**, **medical image intelligence**, and **scalable ML pipelines** — built to solve problems that actually matter.
-
-</td>
-<td width="5%"></td>
-<td width="40%" valign="top">
-
-<br/>
-
-```python
-class MadheshSM:
-    role     = "AI Developer"
-    degree   = "MSc Data Science"
-    focus    = [
-        "Deep Learning",
-        "Medical AI",
-        "Production ML",
-        "LLM Systems",
-    ]
-    mindset  = "Build it right. Ship it fast."
-    
-    def execute(self):
-        return "Intelligence at scale."
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header" width="100%"/>
-
-<br/>
-
-<!-- AI EXPERTISE -->
-### `02` · AI Expertise
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TYPING LINE                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-| Domain | Stack | Level |
-|---|---|---|
-| **Deep Learning** | TensorFlow · Keras · PyTorch | `████████████░` Expert |
-| **Classical ML** | Scikit-Learn · XGBoost · CatBoost | `███████████░░` Advanced |
-| **Medical AI** | Segmentation · Classification · Detection | `██████████░░░` Advanced |
-| **Data Engineering** | NumPy · Pandas · Preprocessing Pipelines | `████████████░` Expert |
-| **Model Deployment** | FastAPI · Streamlit · Docker | `████████░░░░░` Proficient |
-| **NLP & LLMs** | Transformers · RAG · Prompt Engineering | `███████░░░░░░` Growing |
-
-<br/>
-
-</div>
-
-<!-- TECH STACK ICONS -->
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,fastapi,git,linux&theme=dark&perline=8" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header" width="100%"/>
-
-<br/>
-
-<!-- ARCHITECTURE MINDSET -->
-### `03` · Architecture Mindset
-
-<div align="center">
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   DATA  ──►  FEATURE ENG  ──►  MODEL  ──►  DEPLOY  ──►  ∞  │
-│                                                             │
-│   Every layer is intentional. Every decision, traceable.   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-I don't just build models — I design **intelligent pipelines**:
-
-- **Data-first** · Clean, structured, reproducible ingestion before any architecture decisions
-- **Architecture clarity** · Model design chosen for the problem, not the trend
-- **Interpretability** · Every prediction must have a traceable reason
-- **Production-grade** · Logging, versioning, monitoring — from day one
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header" width="100%"/>
-
-<br/>
-
-<!-- CURRENT FOCUS -->
-### `04` · Currently Working On
-
-<br/>
-
-```diff
-+ Medical Image Segmentation   →  CNN architectures for clinical-grade diagnostic AI
-+ Explainable AI Systems       →  SHAP + LIME integration into production pipelines
-+ LLM Orchestration            →  RAG-based systems for domain-specific intelligence
-+ Research                     →  Optimization of deep learning for low-resource environments
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header" width="100%"/>
-
-<br/>
-
-<!-- VISION MANIFESTO -->
-### `05` · Vision Manifesto
-
-<br/>
-
-<div align="center">
-
-*The systems I build are held to four principles.*
-
-</div>
-
-<br/>
-
-<table width="100%" border="0">
-<tr>
-<td width="25%" align="center" valign="top">
-
-**`SCALABLE`**
-
-Built to grow. Architecture decisions made for tomorrow, not just today.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**`EFFICIENT`**
-
-Maximum intelligence per compute cycle. No waste in design or inference.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**`EXPLAINABLE`**
-
-A model that can't justify its prediction has no place in critical systems.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**`IMPACT-DRIVEN`**
-
-Every system ships to solve something real — not to demonstrate cleverness.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-> *"Intelligence without interpretability is just a black box. I build neither."*
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header" width="100%"/>
-
-<br/>
-
-<!-- GITHUB STATS — minimal, no streaks -->
-### `06` · By The Numbers
-
-<div align="center">
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MadheshSM&show_icons=true&theme=transparent&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=aaaacc&hide=contribs&count_private=true&show=prs_merged" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1000&color=00F5A0&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Transforming+data+into+intelligence.;Building+deep+learning+systems+for+real+clinical+impact.;Production+ML+%7C+Medical+AI+%7C+Scalable+Architecture.;Explainable.+Efficient.+Shipped.)](https://git.io/typing-svg)
 
 <br/><br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header" width="100%"/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ABOUT                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=MadheshSM&show_icons=true&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide=contribs,issues&count_private=true&rank_icon=percentile"/>
+
+### `·` Who I Am
+
+I'm an **AI Developer** finishing my **MSc in Data Science**, engineering intelligent systems that bridge research and production.
+
+My focus is precise: **Deep Learning**, **Medical AI**, and building pipelines robust enough to be trusted in real environments — not just on leaderboards.
+
+```
+Specialization  ──  Deep Learning · Medical AI · Production ML
+Current         ──  MSc Data Science, Final Year
+Mode            ──  Research-first. Production-grade. Always.
+Open to         ──  Engineering roles · Research collabs
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    EXPERTISE TABLE                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### `·` AI Expertise
+
+<div align="center">
 
 <br/>
 
-<!-- CONNECT -->
-### `07` · Connect
+| &nbsp; | Domain | Stack | Depth |
+|:---:|:---|:---|:---|
+| ◈ | **Deep Learning** | TensorFlow · Keras · PyTorch | `▰▰▰▰▰▰▰▰▰▰▱▱` Expert |
+| ◈ | **Classical ML** | Scikit-Learn · XGBoost · CatBoost | `▰▰▰▰▰▰▰▰▰▱▱▱` Advanced |
+| ◈ | **Medical AI** | CNN Segmentation · Detection · Diagnostics | `▰▰▰▰▰▰▰▰▱▱▱▱` Advanced |
+| ◈ | **Data Engineering** | NumPy · Pandas · Feature Pipelines | `▰▰▰▰▰▰▰▰▰▰▱▱` Expert |
+| ◈ | **Model Deployment** | FastAPI · Streamlit · Docker | `▰▰▰▰▰▰▱▱▱▱▱▱` Proficient |
+| ◈ | **NLP & LLMs** | Transformers · RAG · Prompt Engineering | `▰▰▰▰▰▱▱▱▱▱▱▱` Growing |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,fastapi,linux,git&theme=dark&perline=8"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ARCHITECTURE                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### `·` How I Build
+
+```
+  RAW DATA
+      │
+      ▼
+  ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
+  │  INGESTION      │────▶│  ARCHITECTURE    │────▶│  DEPLOYMENT     │
+  │  Clean · Valid  │     │  Fit · Optimised │     │  Monitored · ∞  │
+  └─────────────────┘     └──────────────────┘     └─────────────────┘
+                                   │
+                                   ▼
+                          ┌──────────────────┐
+                          │  EXPLAINABILITY  │
+                          │  SHAP · LIME · ✓ │
+                          └──────────────────┘
+```
+
+Every system I ship is built with four non-negotiables in mind:
+
+- **Data-first** &nbsp;·&nbsp; Structure before architecture. Always.
+- **Model clarity** &nbsp;·&nbsp; Design chosen for the problem, not the hype cycle.
+- **Interpretability** &nbsp;·&nbsp; A prediction without a reason is just noise.
+- **Production-grade** &nbsp;·&nbsp; Logging · versioning · monitoring built in from day one.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CURRENT FOCUS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### `·` Currently Building
+
+<br/>
+
+```diff
+@@ Active Research & Engineering — 2026 @@
+
++ pneumonia-detection-cnn
+  CNN pipeline for chest X-ray classification · Clinical-grade accuracy target
+
++ call-ai
+  Conversational AI system · Real-time voice + LLM orchestration
+
++ Explainable AI Integration
+  SHAP + LIME layered onto existing production pipelines
+
++ Low-Resource Deep Learning
+  Optimizing inference for constrained medical environments
+```
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    VISION MANIFESTO                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### `·` The Manifesto
 
 <br/>
 
 <div align="center">
 
-If you're working on something ambitious in AI — let's talk.
+*Four principles. Non-negotiable.*
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhesh%20S%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](http://www.linkedin.com/in/madhesh-s16)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-madheshsm16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:madheshsm16@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-MadheshSM-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/MadheshSM)
+<table width="100%" align="center" border="0">
+<tr>
+<td align="center" width="25%">
+
+**SCALABLE**
+
+Engineered to grow without architectural debt. Tomorrow-ready by design.
+
+</td>
+<td align="center" width="25%">
+
+**EFFICIENT**
+
+Peak intelligence per compute cycle. No redundancy tolerated.
+
+</td>
+<td align="center" width="25%">
+
+**EXPLAINABLE**
+
+No black boxes in critical pipelines. Every output must justify itself.
+
+</td>
+<td align="center" width="25%">
+
+**IMPACT-DRIVEN**
+
+Built to solve real problems — not to generate impressive demo metrics.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+```
+"Intelligence without interpretability is just a black box.
+ I build neither."
+```
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PINNED WORK                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### `·` Selected Work
+
+<div align="center">
+
+<br/>
+
+[![pneumonia-detection-cnn](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=pneumonia-detection-cnn&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/pneumonia-detection-cnn)&nbsp;&nbsp;[![call-ai](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=call-ai&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/call-ai)
+
+<br/>
+
+[![adidas-sales-analysis-powerbi](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=adidas-sales-analysis-powerbi&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/adidas-sales-analysis-powerbi)&nbsp;&nbsp;[![CODSOFT-DATASCIENCE](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=CODSOFT-DATASCIENCE&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/CODSOFT-DATASCIENCE)
 
 <br/>
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=⚡%20Transforming%20data%20into%20intelligence.&fontSize=14&fontColor=00f5a0&fontAlignY=65&animation=fadeIn" width="100%"/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### `·` Let's Connect
+
+<div align="center">
+
+<br/>
+
+*If you're building something serious in AI — research, production, or both — reach out.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Madhesh%20S%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](http://www.linkedin.com/in/madhesh-s16)
+&ensp;
+[![Gmail](https://img.shields.io/badge/Email-%20madheshsm16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:madheshsm16@gmail.com)
+&ensp;
+[![GitHub](https://img.shields.io/badge/GitHub-%20MadheshSM-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MadheshSM)
+
+<br/><br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&text=%E2%9A%A1%20Transforming%20data%20into%20intelligence.&fontSize=13&fontColor=a0f0c8&fontAlignY=65&animation=twinkling"/>
