@@ -26,25 +26,18 @@
 
 ```yaml
 ┌─────────────────────────────────────────────────────┐
-│                                                     │
 │   name     :  Madhesh S                             │
-│   role     :  AI Developer                          │
-│   degree   :  MSc Data Science · Final Year         │
-│   mode     :  Production-first · Research-driven    │
-│                                                     │
+│   role     :  AI Developer                          │ 
+│   mode     :  Production · Research-driven          │
 │   focus    :  - Deep Learning Systems               │
 │               - LLMs & RAG Architectures            │
 │               - Scalable AI Pipelines               │
-│               - Explainable AI                      │
-│                                                     │
 │   status   :  Building · Shipping · Improving       │
-│                                                     │
 └─────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
 I design and deploy AI systems end-to-end — architecture, training, optimization, and production.<br/>
-Not demos. Not notebooks. <b>Systems built to work under real-world constraints.</b>
 </p>
 
 <br/>
