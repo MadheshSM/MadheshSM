@@ -1,252 +1,236 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HERO BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=MADHESH%20S%20M&fontSize=72&fontColor=fff&fontAlignY=40&desc=AI%20Developer%20%E2%80%94%20Deep%20Learning%20%E2%80%94%20MSc%20Data%20Science&descSize=15&descColor=a0f0c8&descAlignY=62&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:0a192f,100:020c1b&height=240&section=header&text=MADHESH%20S&fontSize=80&fontColor=00fff0&fontAlignY=42&strokeWidth=2&stroke=00fff0&desc=AI%20DEVELOPER%20%20%C2%B7%20%20DEEP%20LEARNING%20ENGINEER%20%20%C2%B7%20%20SCALABLE%20AI%20SYSTEMS&descSize=13&descColor=7df9ff&descAlignY=65&animation=fadeIn"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING LINE                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3800&pause=900&color=00FFF0&center=true&vCenter=true&width=680&height=38&lines=Transforming+data+into+intelligence.;Engineering+AI+systems+that+scale.;Deep+Learning+%7C+LLMs+%7C+Production+ML.;Scalable.+Efficient.+Explainable.+Shipped.)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1000&color=00F5A0&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Transforming+data+into+intelligence.;Building+deep+learning+systems+for+real+clinical+impact.;Production+ML+%7C+Medical+AI+%7C+Scalable+Architecture.;Explainable.+Efficient.+Shipped.)](https://git.io/typing-svg)
+<!-- ================================================================ -->
+<!--  01 · IDENTITY                                                    -->
+<!-- ================================================================ -->
 
-<br/><br/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=MadheshSM&show_icons=true&theme=github_dark&hide_border=true&title_color=00fff0&icon_color=7df9ff&text_color=c9d1d9&bg_color=0d1117&hide=contribs,issues&count_private=true&rank_icon=percentile&card_width=320"/>
 
-</div>
+**`[ 01 ]`** &nbsp;**SYSTEM IDENTITY**
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ABOUT                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=MadheshSM&show_icons=true&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide=contribs,issues&count_private=true&rank_icon=percentile"/>
-
-### `·` Who I Am
-
-I'm an **AI Developer** finishing my **MSc in Data Science**, engineering intelligent systems that bridge research and production.
-
-My focus is precise: **Deep Learning**, **Medical AI**, and building pipelines robust enough to be trusted in real environments — not just on leaderboards.
-
+```yaml
+name        : Madhesh S
+role        : AI Developer
+mode        : Production-first · Research-driven
+focus       :
+  - Scalable Deep Learning Systems
+  - Large Language Models & RAG
+  - AI Pipeline Architecture
+  - Explainable AI
+status      : Building · Learning · Shipping
 ```
-Specialization  ──  Deep Learning · Medical AI · Production ML
-Current         ──  MSc Data Science, Final Year
-Mode            ──  Research-first. Production-grade. Always.
-Open to         ──  Engineering roles · Research collabs
-```
+
+I engineer AI systems end-to-end — from architecture
+decisions to deployed, monitored production pipelines.
+
+Not research demos. Not toy projects.
+**Systems that work when it matters.**
 
 <br clear="right"/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    EXPERTISE TABLE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-### `·` AI Expertise
+<!-- ================================================================ -->
+<!--  02 · TECHNICAL STACK                                             -->
+<!-- ================================================================ -->
+
+**`[ 02 ]`** &nbsp;**TECHNICAL STACK**
+
+<br/>
 
 <div align="center">
 
-<br/>
+**` CORE `**
 
-| &nbsp; | Domain | Stack | Depth |
-|:---:|:---|:---|:---|
-| ◈ | **Deep Learning** | TensorFlow · Keras · PyTorch | `▰▰▰▰▰▰▰▰▰▰▱▱` Expert |
-| ◈ | **Classical ML** | Scikit-Learn · XGBoost · CatBoost | `▰▰▰▰▰▰▰▰▰▱▱▱` Advanced |
-| ◈ | **Medical AI** | CNN Segmentation · Detection · Diagnostics | `▰▰▰▰▰▰▰▰▱▱▱▱` Advanced |
-| ◈ | **Data Engineering** | NumPy · Pandas · Feature Pipelines | `▰▰▰▰▰▰▰▰▰▰▱▱` Expert |
-| ◈ | **Model Deployment** | FastAPI · Streamlit · Docker | `▰▰▰▰▰▰▱▱▱▱▱▱` Proficient |
-| ◈ | **NLP & LLMs** | Transformers · RAG · Prompt Engineering | `▰▰▰▰▰▱▱▱▱▱▱▱` Growing |
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00fff0&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=7df9ff&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=7df9ff&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00fff0&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=7df9ff&labelColor=0d1117)
 
-<br/>
+**` MACHINE LEARNING & DEEP LEARNING `**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,fastapi,linux,git&theme=dark&perline=8"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00fff0&labelColor=0d1117)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=7df9ff&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00fff0&labelColor=0d1117)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=7df9ff&labelColor=0d1117)
 
-<br/><br/>
+**` LLMs & NLP `**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00fff0&labelColor=0d1117)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=7df9ff&labelColor=0d1117)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=00fff0&labelColor=0d1117)
+
+**` DEPLOYMENT & INFRASTRUCTURE `**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00fff0&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7df9ff&labelColor=0d1117)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00fff0&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ARCHITECTURE                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
 
-### `·` How I Build
+<br/>
+
+<!-- ================================================================ -->
+<!--  03 · ENGINEERING PHILOSOPHY                                      -->
+<!-- ================================================================ -->
+
+**`[ 03 ]`** &nbsp;**ENGINEERING PHILOSOPHY**
+
+<br/>
+
+<div align="center">
 
 ```
-  RAW DATA
-      │
-      ▼
-  ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
-  │  INGESTION      │────▶│  ARCHITECTURE    │────▶│  DEPLOYMENT     │
-  │  Clean · Valid  │     │  Fit · Optimised │     │  Monitored · ∞  │
-  └─────────────────┘     └──────────────────┘     └─────────────────┘
-                                   │
-                                   ▼
-                          ┌──────────────────┐
-                          │  EXPLAINABILITY  │
-                          │  SHAP · LIME · ✓ │
-                          └──────────────────┘
+╔══════════════╦══════════════════════════════════════════════════════════╗
+║  SCALABLE    ║  Designed for growth. No architectural shortcuts.        ║
+╠══════════════╬══════════════════════════════════════════════════════════╣
+║  EFFICIENT   ║  Maximum output per compute unit. Zero redundancy.       ║
+╠══════════════╬══════════════════════════════════════════════════════════╣
+║  EXPLAINABLE ║  Every prediction traceable. No unexplained black boxes. ║
+╠══════════════╬══════════════════════════════════════════════════════════╣
+║  IMPACT      ║  Real problems. Real users. Real value. Always.          ║
+╚══════════════╩══════════════════════════════════════════════════════════╝
 ```
 
-Every system I ship is built with four non-negotiables in mind:
+</div>
 
-- **Data-first** &nbsp;·&nbsp; Structure before architecture. Always.
-- **Model clarity** &nbsp;·&nbsp; Design chosen for the problem, not the hype cycle.
-- **Interpretability** &nbsp;·&nbsp; A prediction without a reason is just noise.
-- **Production-grade** &nbsp;·&nbsp; Logging · versioning · monitoring built in from day one.
+<br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CURRENT FOCUS                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-### `·` Currently Building
+<!-- ================================================================ -->
+<!--  04 · CURRENT FOCUS                                               -->
+<!-- ================================================================ -->
+
+**`[ 04 ]`** &nbsp;**CURRENT FOCUS**
 
 <br/>
 
 ```diff
-@@ Active Research & Engineering — 2026 @@
+# ACTIVE — 2026
 
-+ pneumonia-detection-cnn
-  CNN pipeline for chest X-ray classification · Clinical-grade accuracy target
++ BUILDING  →  pneumonia-detection-cnn
+               Clinical-grade X-ray classification · CNN architecture · precision optimized
 
-+ call-ai
-  Conversational AI system · Real-time voice + LLM orchestration
++ BUILDING  →  call-ai
+               Real-time voice interface · LLM orchestration · conversational AI system
 
-+ Explainable AI Integration
-  SHAP + LIME layered onto existing production pipelines
++ LEARNING  →  RAG System Design
+               Retrieval-augmented generation · vector databases · domain-specific LLMs
 
-+ Low-Resource Deep Learning
-  Optimizing inference for constrained medical environments
++ EXPLORING →  Low-resource AI Inference
+               Optimizing deep learning for constrained environments and edge deployment
+
+# DIRECTION
+
++ Production AI systems for high-stakes domains
++ Explainable AI integrated into real pipelines
++ LLM-powered intelligent applications at scale
 ```
 
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    VISION MANIFESTO                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### `·` The Manifesto
-
-<br/>
-
 <div align="center">
-
-*Four principles. Non-negotiable.*
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br/>
 
-<table width="100%" align="center" border="0">
-<tr>
-<td align="center" width="25%">
+<!-- ================================================================ -->
+<!--  05 · SELECTED WORK                                               -->
+<!-- ================================================================ -->
 
-**SCALABLE**
-
-Engineered to grow without architectural debt. Tomorrow-ready by design.
-
-</td>
-<td align="center" width="25%">
-
-**EFFICIENT**
-
-Peak intelligence per compute cycle. No redundancy tolerated.
-
-</td>
-<td align="center" width="25%">
-
-**EXPLAINABLE**
-
-No black boxes in critical pipelines. Every output must justify itself.
-
-</td>
-<td align="center" width="25%">
-
-**IMPACT-DRIVEN**
-
-Built to solve real problems — not to generate impressive demo metrics.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-```
-"Intelligence without interpretability is just a black box.
- I build neither."
-```
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PINNED WORK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### `·` Selected Work
+**`[ 05 ]`** &nbsp;**SELECTED WORK**
 
 <div align="center">
 
 <br/>
 
-[![pneumonia-detection-cnn](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=pneumonia-detection-cnn&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/pneumonia-detection-cnn)&nbsp;&nbsp;[![call-ai](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=call-ai&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/call-ai)
+[![pneumonia-detection-cnn](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=pneumonia-detection-cnn&theme=github_dark&hide_border=true&title_color=00fff0&icon_color=7df9ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/pneumonia-detection-cnn)&nbsp;[![call-ai](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=call-ai&theme=github_dark&hide_border=true&title_color=00fff0&icon_color=7df9ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/call-ai)
 
-<br/>
-
-[![adidas-sales-analysis-powerbi](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=adidas-sales-analysis-powerbi&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/adidas-sales-analysis-powerbi)&nbsp;&nbsp;[![CODSOFT-DATASCIENCE](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=CODSOFT-DATASCIENCE&theme=github_dark&hide_border=true&title_color=00f5a0&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/CODSOFT-DATASCIENCE)
+[![adidas-sales-analysis-powerbi](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=adidas-sales-analysis-powerbi&theme=github_dark&hide_border=true&title_color=00fff0&icon_color=7df9ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/adidas-sales-analysis-powerbi)&nbsp;[![CODSOFT-DATASCIENCE](https://github-readme-stats.vercel.app/api/pin/?username=MadheshSM&repo=CODSOFT-DATASCIENCE&theme=github_dark&hide_border=true&title_color=00fff0&icon_color=7df9ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/MadheshSM/CODSOFT-DATASCIENCE)
 
 <br/>
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-### `·` Let's Connect
+<!-- ================================================================ -->
+<!--  06 · CONNECT                                                     -->
+<!-- ================================================================ -->
+
+**`[ 06 ]`** &nbsp;**CONNECT**
 
 <div align="center">
 
 <br/>
 
-*If you're building something serious in AI — research, production, or both — reach out.*
+*Open to serious conversations — AI engineering, research, or building something that matters.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Madhesh%20S%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](http://www.linkedin.com/in/madhesh-s16)
+[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff0&labelColor=0d1117&color=0d1117)](http://www.linkedin.com/in/madhesh-s16)
 &ensp;
-[![Gmail](https://img.shields.io/badge/Email-%20madheshsm16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:madheshsm16@gmail.com)
+[![Gmail](https://img.shields.io/badge/─────%20Email%20─────-0d1117?style=for-the-badge&logo=gmail&logoColor=7df9ff&labelColor=0d1117&color=0d1117)](mailto:madheshsm16@gmail.com)
 &ensp;
-[![GitHub](https://img.shields.io/badge/GitHub-%20MadheshSM-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MadheshSM)
+[![GitHub](https://img.shields.io/badge/─────%20GitHub%20─────-0d1117?style=for-the-badge&logo=github&logoColor=00fff0&labelColor=0d1117&color=0d1117)](https://github.com/MadheshSM)
 
-<br/><br/>
+<br/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&text=%E2%9A%A1%20Transforming%20data%20into%20intelligence.&fontSize=13&fontColor=a0f0c8&fontAlignY=65&animation=twinkling"/>
+<!-- ================================================================ -->
+<!--  FOOTER                                                           -->
+<!-- ================================================================ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║           Intelligence is not the goal.  Impact is.                  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,40:0a192f,70:0d1b2a,100:0a0a0f&height=120&section=footer&text=%E2%9A%A1%20Transforming%20data%20into%20intelligence.&fontSize=14&fontColor=00fff0&fontAlignY=62&animation=fadeIn"/>
