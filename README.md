@@ -152,28 +152,6 @@ Not demos. Not notebooks. <b>Systems built to work under real-world constraints.
 
 <br/>
 
-<!-- PROJECTS -->
-<div align="center">
-
-## 🛸 Selected Work
-
-<br/>
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [**pneumonia-detection-cnn**](https://github.com/MadheshSM/pneumonia-detection-cnn) | CNN-based chest X-ray classifier · clinical-grade pipeline | Python · TensorFlow · Keras |
-| [**call-ai**](https://github.com/MadheshSM/call-ai) | Real-time conversational AI · voice + LLM orchestration | Python · HTML · LLMs |
-| [**adidas-sales-analysis-powerbi**](https://github.com/MadheshSM/adidas-sales-analysis-powerbi) | Sales analytics dashboard · data storytelling | Power BI · Python |
-| [**CODSOFT-DATASCIENCE**](https://github.com/MadheshSM/CODSOFT-DATASCIENCE) | Applied ML implementations · real datasets | Python · Scikit-Learn |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
 <!-- CONNECT -->
 <div align="center">
 
